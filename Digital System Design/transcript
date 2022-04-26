@@ -1,0 +1,104 @@
+vsim -gui work.xor_gate_tb
+# vsim -gui work.xor_gate_tb 
+# Start time: 18:27:00 on Aug 25,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.xor_gate_tb(tb)
+# Loading work.xor_gate(arch)
+add wave -position insertpoint sim:/xor_gate_tb/*
+run
+# Compile of xor_gate_tb.vhd was successful with warnings.
+# Compile of xor_gate_tb.vhd was successful with warnings.
+# Compile of xor_gate_tb.vhd was successful with warnings.
+# Compile of xor_gate_tb.vhd was successful with warnings.
+# Compile of xor_gate_tb.vhd was successful with warnings.
+# Compile of fourbitrippleadder.vhd was successful.
+# Compile of fourbitrippleadder_tb.vhd failed with 2 errors.
+# Compile of fulladder.vhd was successful.
+# Compile of halfadder.vhd was successful.
+# Compile of mux4x1.vhd was successful.
+# Compile of mux4x1_tb.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_tb.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_tb.vhd was successful with warnings.
+# 10 compiles, 1 failed with 2 errors.
+# Compile of fourbitrippleadder.vhd was successful.
+# Compile of fourbitrippleadder_tb.vhd failed with 2 errors.
+# Compile of fulladder.vhd was successful.
+# Compile of halfadder.vhd was successful.
+# Compile of mux4x1.vhd was successful.
+# Compile of mux4x1_tb.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_tb.vhd was successful.
+# Compile of xor_gate.vhd was successful.
+# Compile of xor_gate_tb.vhd was successful with warnings.
+# 10 compiles, 1 failed with 2 errors.
+# Compile of xor_gate_tb.vhd was successful with warnings.
+# Compile of xor_gate.vhd failed with 2 errors.
+# Compile of fourbitrippleadder.vhd was successful.
+# Compile of fourbitrippleadder_tb.vhd failed with 2 errors.
+# Compile of fulladder.vhd was successful.
+# Compile of halfadder.vhd was successful.
+# Compile of mux4x1.vhd was successful.
+# Compile of mux4x1_tb.vhd was successful.
+# Compile of nor_gate.vhd was successful.
+# Compile of nor_gate_tb.vhd was successful.
+# Compile of xor_gate.vhd failed with 2 errors.
+# Compile of xor_gate_tb.vhd was successful.
+# 10 compiles, 2 failed with 4 errors.
+# Compile of xor_gate.vhd was successful.
+vsim -gui work.xor_gate_tb
+# End time: 18:48:56 on Aug 25,2023, Elapsed time: 0:21:56
+# Errors: 0, Warnings: 12
+# vsim -gui work.xor_gate_tb 
+# Start time: 18:48:57 on Aug 25,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.xor_gate_tb(tb)
+# Loading work.xor_gate(arch)
+add wave -position insertpoint sim:/xor_gate_tb/*
+run
+# ** Note: All tests passed!
+#    Time: 1 ns  Iteration: 0  Instance: /xor_gate_tb
+# Compile of fourbitrippleadder_tb.vhd failed with 2 errors.
+# Compile of fourbitrippleadder_tb.vhd was successful with warnings.
+# Compile of fourbitrippleadder_tb.vhd failed with 2 errors.
+# Compile of fourbitrippleadder_tb.vhd was successful with warnings.
+vsim -gui work.fourbitrippleadder_tb
+# End time: 18:10:45 on Aug 26,2023, Elapsed time: 23:21:48
+# Errors: 0, Warnings: 5
+# vsim -gui work.fourbitrippleadder_tb 
+# Start time: 18:10:46 on Aug 26,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.fourbitrippleadder_tb(tb_arch)
+# Loading work.fourbitrippleadder(arch)
+# Loading work.fulladder(arch)
+# Loading work.halfadder(ha)
+add wave -position insertpoint sim:/fourbitrippleadder_tb/*
+run
+# Compile of fourbitrippleadder_tb.vhd was successful with warnings.
+# Compile of fourbitrippleadder_tb.vhd was successful with warnings.
+vsim -gui work.fourbitrippleadder_tb
+# End time: 18:20:49 on Aug 26,2023, Elapsed time: 0:10:03
+# Errors: 0, Warnings: 3
+# vsim -gui work.fourbitrippleadder_tb 
+# Start time: 18:20:50 on Aug 26,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.fourbitrippleadder_tb(tb_arch)
+# Loading work.fourbitrippleadder(arch)
+# Loading work.fulladder(arch)
+# Loading work.halfadder(ha)
+add wave -position insertpoint sim:/fourbitrippleadder_tb/*
+run
+run
+run
+run

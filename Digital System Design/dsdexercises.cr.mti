@@ -1,0 +1,83 @@
+{C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate
+-- Compiling architecture arch of xor_gate
+
+} {} {}} {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading entity xor_gate
+-- Compiling entity xor_gate_tb
+-- Compiling architecture tb of xor_gate_tb
+
+} {} {}} {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fourbitrippleadder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fourbitrippleadder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading entity halfadder
+-- Loading entity fulladder
+-- Compiling entity fourbitrippleadder
+-- Compiling architecture arch of fourbitrippleadder
+
+} {} {}} {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fulladder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fulladder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading entity halfadder
+-- Compiling entity fulladder
+-- Compiling architecture arch of fulladder
+
+} {} {}} {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/halfadder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/halfadder.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity halfadder
+-- Compiling architecture HA of halfadder
+
+} {} {}} {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate
+-- Compiling architecture conditional of nor_gate
+-- Compiling architecture operator of nor_gate
+-- Loading entity nor_gate
+-- Compiling architecture selectedsignalassignment of nor_gate
+-- Loading entity nor_gate
+
+} {} {}} {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Compiling entity mux4x1
+-- Compiling architecture Behaviour of mux4x1
+
+} {} {}} {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nor_gate_tb
+-- Compiling architecture tb of nor_gate_tb
+-- Loading entity nor_gate
+
+} {} {}} {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1_tb.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mux4x1_tb
+-- Compiling architecture Testbench of mux4x1_tb
+
+} {} {}}

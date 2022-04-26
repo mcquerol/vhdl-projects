@@ -1,0 +1,471 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+Efourbitrippleadder
+Z0 w1692383962
+Z1 DEx4 work 9 fulladder 0 22 TJVa;C3dDP52W9g<8R@6V0
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 48
+Z5 dC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design
+Z6 8C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fourbitrippleadder.vhd
+Z7 FC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fourbitrippleadder.vhd
+l0
+L7 1
+V[SHBSM@h<F19F1hGz6<8k2
+!s100 0Sm?7`n0?1819A7^Tm05?3
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1692982076
+!i10b 1
+Z10 !s108 1692982076.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fourbitrippleadder.vhd|
+Z12 !s107 C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fourbitrippleadder.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+R3
+R4
+Z15 DEx4 work 18 fourbitrippleadder 0 22 [SHBSM@h<F19F1hGz6<8k2
+!i122 48
+l20
+L16 13
+VAPO:YaneRh6BeHO`VKn1V0
+!s100 [oQQZP00^A`J[E6cLY=Jl3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Efourbitrippleadder_tb
+Z16 w1693066797
+R15
+R2
+R3
+R4
+!i122 64
+R5
+Z17 8C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fourbitrippleadder_tb.vhd
+Z18 FC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fourbitrippleadder_tb.vhd
+l0
+L7 1
+VbNO_?MGYz^[2z6i<gE4B91
+!s100 m<bTiX4ZbdKD85oPIz<oY1
+R8
+32
+Z19 !s110 1693066813
+!i10b 1
+Z20 !s108 1693066813.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fourbitrippleadder_tb.vhd|
+Z22 !s107 C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fourbitrippleadder_tb.vhd|
+!i113 1
+R13
+R14
+Atb_arch
+R2
+R3
+R4
+Z23 DEx4 work 21 fourbitrippleadder_tb 0 22 bNO_?MGYz^[2z6i<gE4B91
+!i122 64
+l25
+L10 45
+Vnfo_?jGnVlA4EZEmVdf_b0
+!s100 9<>nO?JRamc;Ln;nRAfc@2
+R8
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R13
+R14
+Efulladder
+Z24 w1692383671
+Z25 DEx4 work 9 halfadder 0 22 =:^4JDLCc<OL?boT`Jb9V2
+R2
+R3
+R4
+!i122 50
+R5
+Z26 8C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fulladder.vhd
+Z27 FC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fulladder.vhd
+l0
+L7 1
+VTJVa;C3dDP52W9g<8R@6V0
+!s100 k2TAGKMN:gIzRoOa^JS?g1
+R8
+32
+Z28 !s110 1692982077
+!i10b 1
+Z29 !s108 1692982077.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fulladder.vhd|
+Z31 !s107 C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/fulladder.vhd|
+!i113 1
+R13
+R14
+Aarch
+R25
+R2
+R3
+R4
+R1
+!i122 50
+l18
+L14 12
+V68AfN[Y@hn`SMEzN:VKTc0
+!s100 6l8[DVN=a8G0_zMI61^jm2
+R8
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R13
+R14
+Ehalfadder
+Z32 w1692288171
+R3
+R4
+!i122 51
+R5
+Z33 8C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/halfadder.vhd
+Z34 FC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/halfadder.vhd
+l0
+L4 1
+V=:^4JDLCc<OL?boT`Jb9V2
+!s100 onmiC5A5RVN`GV<PYkMPg3
+R8
+32
+Z35 !s110 1692982078
+!i10b 1
+Z36 !s108 1692982078.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/halfadder.vhd|
+Z38 !s107 C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/halfadder.vhd|
+!i113 1
+R13
+R14
+Aha
+R3
+R4
+R25
+!i122 51
+l13
+L11 8
+V^U4Y@6o>J8FiMa055E]UB2
+!s100 BAeM1oBcCPj_9fQ]i=BcH0
+R8
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R13
+R14
+Emux4x1
+Z39 w1692614763
+!i122 52
+R5
+Z40 8C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1.vhd
+Z41 FC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1.vhd
+l0
+L1 1
+Ve>b5GB>AE29W?C]jR;6Bn2
+!s100 [U@YO2IOJKBHzlFU2fbna0
+R8
+32
+R35
+!i10b 1
+R36
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1.vhd|
+Z43 !s107 C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1.vhd|
+!i113 1
+R13
+R14
+Abehaviour
+DEx4 work 6 mux4x1 0 22 e>b5GB>AE29W?C]jR;6Bn2
+!i122 52
+l11
+L10 22
+VALF6>7AFZML:m1=5fIW4A3
+!s100 cGTeG]a]PzWQiOnJdOFAZ1
+R8
+32
+R35
+!i10b 1
+R36
+R42
+R43
+!i113 1
+R13
+R14
+Emux4x1_tb
+Z44 w1692615385
+R2
+R3
+R4
+!i122 53
+R5
+Z45 8C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1_tb.vhd
+Z46 FC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1_tb.vhd
+l0
+L5 1
+VCQH8>Hm<]zKnXHBlecEz12
+!s100 ^]j;]_1^NfGWL2]jl2=4>2
+R8
+32
+R35
+!i10b 1
+R36
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1_tb.vhd|
+Z48 !s107 C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/mux4x1_tb.vhd|
+!i113 1
+R13
+R14
+Atestbench
+R2
+R3
+R4
+DEx4 work 9 mux4x1_tb 0 22 CQH8>Hm<]zKnXHBlecEz12
+!i122 53
+l23
+L8 31
+VF2E`G@<AGPMO>f;P2_k;`0
+!s100 nLIzHLm27nAYh2nQ06eI11
+R8
+32
+R35
+!i10b 1
+R36
+R47
+R48
+!i113 1
+R13
+R14
+Enor_gate
+Z49 w1692287557
+R3
+R4
+!i122 54
+R5
+Z50 8C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate.vhd
+Z51 FC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate.vhd
+l0
+L4 1
+V2iZTT`jAQKgSJD:X^IMQ;3
+!s100 GWzhkoQ9HTEFZLDFlKSlN2
+R8
+32
+Z52 !s110 1692982079
+!i10b 1
+Z53 !s108 1692982079.000000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate.vhd|
+Z55 !s107 C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate.vhd|
+!i113 1
+R13
+R14
+Aselectedsignalassignment
+R3
+R4
+Z56 DEx4 work 8 nor_gate 0 22 2iZTT`jAQKgSJD:X^IMQ;3
+!i122 54
+l40
+L38 11
+VeR23kgPf:_b0`PISkMCkj1
+!s100 J0@0FBa`Z=5`HNST8PWFF3
+R8
+32
+R52
+!i10b 1
+R53
+R54
+R55
+!i113 1
+R13
+R14
+Aoperator
+R3
+R4
+R56
+!i122 54
+l32
+L30 7
+VRX_Ho007X^Tbz<nfQaJDg3
+!s100 WF6Z4SZk>9M=dm@OQo=R;3
+R8
+32
+R52
+!i10b 1
+R53
+R54
+R55
+!i113 1
+R13
+R14
+Aconditional
+R3
+R4
+R56
+!i122 54
+l13
+Z57 L11 17
+VjodY^YKUXaQ:WhdzXA7WI2
+!s100 `nDdjnf<YHaPfOHLIFD]i3
+R8
+32
+R52
+!i10b 1
+R53
+R54
+R55
+!i113 1
+R13
+R14
+Enor_gate_tb
+Z58 w1692353777
+R3
+R4
+!i122 55
+R5
+Z59 8C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate_tb.vhd
+Z60 FC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate_tb.vhd
+l0
+L4 1
+V=B;o;KaCWad87S?KL_3F:1
+!s100 YiB=fz7=]^GM2mlXL9gOF3
+R8
+32
+R52
+!i10b 1
+R53
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate_tb.vhd|
+Z62 !s107 C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/nor_gate_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R56
+R3
+R4
+DEx4 work 11 nor_gate_tb 0 22 =B;o;KaCWad87S?KL_3F:1
+!i122 55
+l12
+L7 25
+Vb64;7>>E5BAX5nh]:>PXa0
+!s100 lUX3`5H?`>L[[C;mnmO]73
+R8
+32
+R52
+!i10b 1
+R53
+R61
+R62
+!i113 1
+R13
+R14
+Exor_gate
+Z63 w1692982103
+R3
+R4
+!i122 58
+R5
+Z64 8C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate.vhd
+Z65 FC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate.vhd
+l0
+L4 1
+V<?e5BMfSA@h`:dMfV9K8T2
+!s100 H4;TAHJ6jKl>]56XmSZQH3
+R8
+32
+Z66 !s110 1692982118
+!i10b 1
+Z67 !s108 1692982118.000000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate.vhd|
+Z69 !s107 C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate.vhd|
+!i113 1
+R13
+R14
+Aarch
+R3
+R4
+Z70 DEx4 work 8 xor_gate 0 22 <?e5BMfSA@h`:dMfV9K8T2
+!i122 58
+l13
+R57
+V]dlh^A7Z66AeGHeOa;F0=3
+!s100 og@fONI6h:^TQGhOLVM7K0
+R8
+32
+R66
+!i10b 1
+R67
+R68
+R69
+!i113 1
+R13
+R14
+Exor_gate_tb
+Z71 w1692982070
+R70
+R3
+R4
+!i122 57
+R5
+Z72 8C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate_tb.vhd
+Z73 FC:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate_tb.vhd
+l0
+L5 1
+Vi_gcgRd8f0U68F^Dem=cz2
+!s100 9[T:B^znKR]GNPOC2D9[91
+R8
+32
+Z74 !s110 1692982080
+!i10b 1
+Z75 !s108 1692982080.000000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate_tb.vhd|
+Z77 !s107 C:/Users/robom/Desktop/Repostopush/vhdl-projects/Digital System Design/xor_gate_tb.vhd|
+!i113 1
+R13
+R14
+Atb
+R70
+R3
+R4
+DEx4 work 11 xor_gate_tb 0 22 i_gcgRd8f0U68F^Dem=cz2
+!i122 57
+l11
+L8 42
+Vg_1fha@N@:Sm64=iEWoIH0
+!s100 gNnck7b8N0_>ja^A`mm0c2
+R8
+32
+R74
+!i10b 1
+R75
+R76
+R77
+!i113 1
+R13
+R14
