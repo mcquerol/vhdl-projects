@@ -20,18 +20,23 @@ begin
     ored <= A or B;
     anded <= A and B;
 
-    case( EN ) is
+    mux : process( EN )
+    begin
+        
+        case( EN ) is
     
-        when "00" =>
-            O <= add;
-        when "01" =>
-            O <= add;
-        when "10" =>
-            O <= add;
-        when "11" =>
-            O <= add;
-        when others =>
-            O <= 'X'
+            when "00" =>
+                O <= add;
+            when "01" =>
+                O <= add;
+            when "10" =>
+                O <= add;
+            when "11" =>
+                O <= add;
+            when others =>
+                O <= 'X'
+
+    end process ; -- mux
             
     end case ;
 
