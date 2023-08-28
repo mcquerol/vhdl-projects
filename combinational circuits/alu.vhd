@@ -16,7 +16,7 @@ signal add, sub, ored, anded: std_logic;
 begin
 
     add <= A + B;
-    sub <= A - B;
+    sub <= A + (not B) + 1;
     ored <= A or B;
     anded <= A and B;
 
@@ -31,7 +31,7 @@ begin
         when "11" =>
             O <= add;
         when others =>
-            O<= 'X'
+            O <= 'X'
             
     end case ;
 
